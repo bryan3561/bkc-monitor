@@ -1,1 +1,1 @@
-![Vista previa](docs/preview.png)
+![Vista previa](preview.png)
