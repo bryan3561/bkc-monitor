@@ -1,0 +1,1 @@
+![Vista previa](docs/preview.png)
